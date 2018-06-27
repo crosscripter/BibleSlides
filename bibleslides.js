@@ -57,7 +57,7 @@ function randomCss() {
 }
 
 function randomImage() {
-    var url = "http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-"
+    var url = "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-"
     var images = [186056,186059,186061,187785,188201,195846,195890,198406,200787,
         201636,201865,202342,202343,202344,202345,202347,202348,202349,
         202351,202352,202354,202358,202360,202361,202362,202367,202370,
